@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o null-gamma! 👋
 
-<!--
-**null-gamma/null-gamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+- 🚀 Estudando desenvolvimento de software, com forte interesse em computação de baixo nível e administração de sistemas.
+- 🎯 Meu objetivo atual é dominar a criação de scripts de automação e explorar os fundamentos da cibersegurança.
+- 🧠 Curioso por matemática aplicada, ambientes Linux e em extrair o máximo de performance de diferentes hardwares e dispositivos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ecossistema
+- **Linguagens:** Python, Shell Script
+- **Kernel/Ambiente:** Kernel Linux (AKA: Android) 📱
+- **Ferramentas:** Termux, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 O que estou construindo
+- 🔧 Criando scripts em Python para automatizar tarefas cotidianas.
+- 🐧 Explorando a customização avançada de terminais e sistemas operacionais.
+
+### 📬 Como me encontrar
