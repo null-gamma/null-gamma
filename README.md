@@ -15,3 +15,4 @@
 - 🐧 Explorando a customização avançada de terminais e sistemas operacionais.
 
 ### 📬 Como me encontrar
+- E-mail: null.gamma@proton.me
