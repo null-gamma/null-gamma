@@ -14,5 +14,5 @@
 - 🔧 Criando scripts em Python para automatizar tarefas cotidianas.
 - 🐧 Explorando a customização avançada de terminais e sistemas operacionais.
 
-### 📬 Como me encontrar
+### 📬 Como me encontrar:
 - E-mail: null.gamma@proton.me
