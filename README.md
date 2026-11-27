@@ -1,4 +1,4 @@
-//Olá, eu sou o G∆BRi3l
+// #Olá, eu sou o G∆BRi3l
 
 ### 👨‍💻 Sobre mim
 - 🚀 Estudando desenvolvimento de software, com forte interesse em computação de baixo nível e administração de sistemas.
