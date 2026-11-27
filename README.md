@@ -8,7 +8,7 @@
 - 🧠 Curioso por matemática aplicada, ambientes Linux e em extrair o máximo de performance de diferentes hardwares e dispositivos.
 
 ### 🛠️ Tecnologias e Ecossistema
-- **Linguagens:** Python , Shell Script
+- **Linguagens:** Pytho,C,Shell Script
 - **Kernel/Ambiente:** Kernel Linux (AKA: Android) 📱
 - **Ferramentas:** Termux, Git, GitHub
 
