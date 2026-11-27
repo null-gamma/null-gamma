@@ -8,7 +8,7 @@
 - 🧠 Curioso por matemática aplicada, ambientes Linux e em extrair o máximo de performance de diferentes hardwares e dispositivos.
 
 ### 🛠️ Tecnologias e Ecossistema
-- **Linguagens:** Python, Shell Script
+- **Linguagens:** Python , Shell Script
 - **Kernel/Ambiente:** Kernel Linux (AKA: Android) 📱
 - **Ferramentas:** Termux, Git, GitHub
 
@@ -17,4 +17,4 @@
 - 🐧 Explorando a customização avançada de terminais e sistemas operacionais.
 
 ### 📬 Como me encontrar:
-- E-mail: null.gamma@proton.me
+- E-mail:gmartinsbrito7@gmail.com 
