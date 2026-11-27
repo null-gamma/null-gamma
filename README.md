@@ -2,7 +2,9 @@
 
 ### 👨‍💻 Sobre mim
 - 🚀 Estudando desenvolvimento de software, com forte interesse em computação de baixo nível e administração de sistemas.
+
 - 🎯 Meu objetivo atual é dominar a criação de scripts de automação e explorar os fundamentos da cibersegurança.
+
 - 🧠 Curioso por matemática aplicada, ambientes Linux e em extrair o máximo de performance de diferentes hardwares e dispositivos.
 
 ### 🛠️ Tecnologias e Ecossistema
